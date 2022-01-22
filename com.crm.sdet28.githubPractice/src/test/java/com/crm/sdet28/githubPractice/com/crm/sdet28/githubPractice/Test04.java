@@ -10,4 +10,8 @@ public class Test04 {
 public void fruitsTest() {
 	System.out.println("this is class test04 methos fruits created by kajal");
 }
+@Test
+public void vegetableTest() {
+	
+}
 }
